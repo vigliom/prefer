@@ -5,7 +5,7 @@
         name="oneByOne" class=" m-5 d-flex flex-wrap justify-content-center">
         <div v-for="item in Opciones" :key="item.id" :data-index="item.id" >
           <router-link  to="" class=" d-block m-auto p-2 ">
-            <img width="300" height="400" src="../components/icons/lista-de-la-compra.png" alt="logo"
+            <img width="300" height="400" src="../assets/lista-de-la-compra.png" alt="logo"
               class="img hover-style img-fluid" />
           </router-link>
         </div>

@@ -2,7 +2,7 @@
 <div class="d-flex m-auto">
     <div class="d-flex mt-3 justify-content-center gap-3 flex-wrap">
         <div class="w-50 d-flex ">
-            <img class="img-fluid" src="../components/icons/lista-de-la-compra.png"/>
+            <img class="img-fluid" src="../assets/lista-de-la-compra.png"/>
         </div>
         <div class="d-flex flex-column gap-3">
             <div class="form-control">
