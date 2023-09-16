@@ -2,7 +2,7 @@
     <div class=" d-flex mt-5 w-100 gap-3 flex-wrap justify-content-center container">
         <div class="my-auto">
             <img :width="600" src="../components/icons/fondo-pantalla-abstracto-nebulosa-ultra-detallado-4.jpg" alt="logo"
-                class="rounded-3 end-0 img-fluid">
+                class="rounded-3 end-0 img-fluid"/>
         </div>
         <RouterView v-slot="{ Component }" class="my-auto">
             <transition name="slideRight" mode="out-in">

@@ -5,7 +5,7 @@
 
 </template>
 <script setup>
-import ListaComponent from '../components/ListaComponent.vue';
+import ListaComponent from '../components/listaComponent.vue';
 const params=defineProps( {
     id: {
         type: String,
